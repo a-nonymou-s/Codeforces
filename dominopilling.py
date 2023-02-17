@@ -1,0 +1,5 @@
+rect = input("")
+rect = rect.split(" ")
+space = int(rect[0])*int(rect[1])
+dominos_number = int(space/2)
+print(dominos_number)
