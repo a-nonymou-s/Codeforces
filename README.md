@@ -10,6 +10,6 @@ This project is a compilation of solutions of various problems in the codeforces
 + WaterMelon
 + WayTooLongWords
 ### Technologies
-+ <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3629591-3032289.png"  width="92" height="92"> - Python3
++ <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3629591-3032289.png"  width="12" height="12"> - Python3
 ### Collaborators
 + Yassine Rahmani - Anony
